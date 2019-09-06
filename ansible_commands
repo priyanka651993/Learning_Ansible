@@ -1,0 +1,2 @@
+ansible localhost -m lineinfile -a dest=./motd regexp=Ansible is extra awesome line=Ansible is super awesome
+git clone https://github.com/priyanka651993/Learning_Ansible.git
